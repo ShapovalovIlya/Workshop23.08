@@ -11,6 +11,50 @@
 		86E135A82A9562D400FE8D65 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135A72A9562D400FE8D65 /* ContentView.swift */; };
 		86E135AA2A9562DC00FE8D65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86E135A92A9562DC00FE8D65 /* Assets.xcassets */; };
 		86E135AD2A9562DC00FE8D65 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86E135AC2A9562DC00FE8D65 /* Preview Assets.xcassets */; };
+		86E135D02A95630100FE8D65 /* ResetPasswordModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135B52A95630100FE8D65 /* ResetPasswordModel.swift */; };
+		86E135D12A95630100FE8D65 /* StepModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135B62A95630100FE8D65 /* StepModel.swift */; };
+		86E135D22A95630100FE8D65 /* InventoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135B72A95630100FE8D65 /* InventoryModel.swift */; };
+		86E135D32A95630100FE8D65 /* IngredientModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135B82A95630100FE8D65 /* IngredientModel.swift */; };
+		86E135D42A95630100FE8D65 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135B92A95630100FE8D65 /* CategoryModel.swift */; };
+		86E135D52A95630100FE8D65 /* StrengthModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135BA2A95630100FE8D65 /* StrengthModel.swift */; };
+		86E135D62A95630100FE8D65 /* CocktailRecommendationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135BB2A95630100FE8D65 /* CocktailRecommendationModel.swift */; };
+		86E135D72A95630100FE8D65 /* AuthorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135BC2A95630100FE8D65 /* AuthorModel.swift */; };
+		86E135D82A95630100FE8D65 /* GlobalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135BD2A95630100FE8D65 /* GlobalModel.swift */; };
+		86E135D92A95630100FE8D65 /* CocktailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135BE2A95630100FE8D65 /* CocktailModel.swift */; };
+		86E135DA2A95630100FE8D65 /* JWTTokenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135BF2A95630100FE8D65 /* JWTTokenModel.swift */; };
+		86E135DB2A95630100FE8D65 /* ComplexityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C02A95630100FE8D65 /* ComplexityModel.swift */; };
+		86E135DC2A95630100FE8D65 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C12A95630100FE8D65 /* UserModel.swift */; };
+		86E135DD2A95630100FE8D65 /* TasteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C22A95630100FE8D65 /* TasteModel.swift */; };
+		86E135DE2A95630100FE8D65 /* FormatModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C32A95630100FE8D65 /* FormatModel.swift */; };
+		86E135DF2A95630100FE8D65 /* ProfilePicModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C42A95630100FE8D65 /* ProfilePicModel.swift */; };
+		86E135E02A95630100FE8D65 /* TokenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C52A95630100FE8D65 /* TokenModel.swift */; };
+		86E135E12A95630100FE8D65 /* UserAggregateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C72A95630100FE8D65 /* UserAggregateModel.swift */; };
+		86E135E22A95630100FE8D65 /* PasswordResetAggregateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C82A95630100FE8D65 /* PasswordResetAggregateModel.swift */; };
+		86E135E32A95630100FE8D65 /* FilterAggregateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135C92A95630100FE8D65 /* FilterAggregateModel.swift */; };
+		86E135E42A95630100FE8D65 /* CocktailAggregateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135CA2A95630100FE8D65 /* CocktailAggregateModel.swift */; };
+		86E135E52A95630100FE8D65 /* IngredientAggregateModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135CB2A95630100FE8D65 /* IngredientAggregateModel.swift */; };
+		86E135E62A95630100FE8D65 /* AlertModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135CD2A95630100FE8D65 /* AlertModel.swift */; };
+		86E135E72A95630100FE8D65 /* AnyAnswerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135CE2A95630100FE8D65 /* AnyAnswerModel.swift */; };
+		86E135E82A95630100FE8D65 /* UserCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135CF2A95630100FE8D65 /* UserCustom.swift */; };
+		86E136012A95631400FE8D65 /* InventoryEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135EC2A95631400FE8D65 /* InventoryEndpoint.swift */; };
+		86E136022A95631400FE8D65 /* StrengthEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135ED2A95631400FE8D65 /* StrengthEndpoint.swift */; };
+		86E136032A95631400FE8D65 /* IngredientEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135EE2A95631400FE8D65 /* IngredientEndpoint.swift */; };
+		86E136042A95631400FE8D65 /* CocktailEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135EF2A95631400FE8D65 /* CocktailEndpoint.swift */; };
+		86E136052A95631400FE8D65 /* BarEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F02A95631400FE8D65 /* BarEndpoint.swift */; };
+		86E136062A95631400FE8D65 /* FormatEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F12A95631400FE8D65 /* FormatEndpoint.swift */; };
+		86E136072A95631400FE8D65 /* ComplexityEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F22A95631400FE8D65 /* ComplexityEndpoint.swift */; };
+		86E136082A95631400FE8D65 /* JWTEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F32A95631400FE8D65 /* JWTEndpoint.swift */; };
+		86E136092A95631400FE8D65 /* TasteEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F42A95631400FE8D65 /* TasteEndpoint.swift */; };
+		86E1360A2A95631400FE8D65 /* UserEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F52A95631400FE8D65 /* UserEndpoint.swift */; };
+		86E1360B2A95631400FE8D65 /* HTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F72A95631400FE8D65 /* HTTPClient.swift */; };
+		86E1360C2A95631400FE8D65 /* RequestMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F82A95631400FE8D65 /* RequestMethod.swift */; };
+		86E1360D2A95631400FE8D65 /* RequestError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135F92A95631400FE8D65 /* RequestError.swift */; };
+		86E1360E2A95631400FE8D65 /* Endpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135FA2A95631400FE8D65 /* Endpoint.swift */; };
+		86E1360F2A95631400FE8D65 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135FC2A95631400FE8D65 /* UserService.swift */; };
+		86E136102A95631400FE8D65 /* FilterService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135FD2A95631400FE8D65 /* FilterService.swift */; };
+		86E136112A95631400FE8D65 /* IngredientService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135FE2A95631400FE8D65 /* IngredientService.swift */; };
+		86E136122A95631400FE8D65 /* JWTService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E135FF2A95631400FE8D65 /* JWTService.swift */; };
+		86E136132A95631400FE8D65 /* CoctailService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86E136002A95631400FE8D65 /* CoctailService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +63,50 @@
 		86E135A72A9562D400FE8D65 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		86E135A92A9562DC00FE8D65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86E135AC2A9562DC00FE8D65 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		86E135B52A95630100FE8D65 /* ResetPasswordModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResetPasswordModel.swift; sourceTree = "<group>"; };
+		86E135B62A95630100FE8D65 /* StepModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StepModel.swift; sourceTree = "<group>"; };
+		86E135B72A95630100FE8D65 /* InventoryModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryModel.swift; sourceTree = "<group>"; };
+		86E135B82A95630100FE8D65 /* IngredientModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngredientModel.swift; sourceTree = "<group>"; };
+		86E135B92A95630100FE8D65 /* CategoryModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
+		86E135BA2A95630100FE8D65 /* StrengthModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StrengthModel.swift; sourceTree = "<group>"; };
+		86E135BB2A95630100FE8D65 /* CocktailRecommendationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocktailRecommendationModel.swift; sourceTree = "<group>"; };
+		86E135BC2A95630100FE8D65 /* AuthorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthorModel.swift; sourceTree = "<group>"; };
+		86E135BD2A95630100FE8D65 /* GlobalModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalModel.swift; sourceTree = "<group>"; };
+		86E135BE2A95630100FE8D65 /* CocktailModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocktailModel.swift; sourceTree = "<group>"; };
+		86E135BF2A95630100FE8D65 /* JWTTokenModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JWTTokenModel.swift; sourceTree = "<group>"; };
+		86E135C02A95630100FE8D65 /* ComplexityModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComplexityModel.swift; sourceTree = "<group>"; };
+		86E135C12A95630100FE8D65 /* UserModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		86E135C22A95630100FE8D65 /* TasteModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TasteModel.swift; sourceTree = "<group>"; };
+		86E135C32A95630100FE8D65 /* FormatModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormatModel.swift; sourceTree = "<group>"; };
+		86E135C42A95630100FE8D65 /* ProfilePicModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfilePicModel.swift; sourceTree = "<group>"; };
+		86E135C52A95630100FE8D65 /* TokenModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TokenModel.swift; sourceTree = "<group>"; };
+		86E135C72A95630100FE8D65 /* UserAggregateModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserAggregateModel.swift; sourceTree = "<group>"; };
+		86E135C82A95630100FE8D65 /* PasswordResetAggregateModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PasswordResetAggregateModel.swift; sourceTree = "<group>"; };
+		86E135C92A95630100FE8D65 /* FilterAggregateModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterAggregateModel.swift; sourceTree = "<group>"; };
+		86E135CA2A95630100FE8D65 /* CocktailAggregateModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocktailAggregateModel.swift; sourceTree = "<group>"; };
+		86E135CB2A95630100FE8D65 /* IngredientAggregateModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngredientAggregateModel.swift; sourceTree = "<group>"; };
+		86E135CD2A95630100FE8D65 /* AlertModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlertModel.swift; sourceTree = "<group>"; };
+		86E135CE2A95630100FE8D65 /* AnyAnswerModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnyAnswerModel.swift; sourceTree = "<group>"; };
+		86E135CF2A95630100FE8D65 /* UserCustom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserCustom.swift; sourceTree = "<group>"; };
+		86E135EC2A95631400FE8D65 /* InventoryEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryEndpoint.swift; sourceTree = "<group>"; };
+		86E135ED2A95631400FE8D65 /* StrengthEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StrengthEndpoint.swift; sourceTree = "<group>"; };
+		86E135EE2A95631400FE8D65 /* IngredientEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngredientEndpoint.swift; sourceTree = "<group>"; };
+		86E135EF2A95631400FE8D65 /* CocktailEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocktailEndpoint.swift; sourceTree = "<group>"; };
+		86E135F02A95631400FE8D65 /* BarEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BarEndpoint.swift; sourceTree = "<group>"; };
+		86E135F12A95631400FE8D65 /* FormatEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormatEndpoint.swift; sourceTree = "<group>"; };
+		86E135F22A95631400FE8D65 /* ComplexityEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComplexityEndpoint.swift; sourceTree = "<group>"; };
+		86E135F32A95631400FE8D65 /* JWTEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JWTEndpoint.swift; sourceTree = "<group>"; };
+		86E135F42A95631400FE8D65 /* TasteEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TasteEndpoint.swift; sourceTree = "<group>"; };
+		86E135F52A95631400FE8D65 /* UserEndpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserEndpoint.swift; sourceTree = "<group>"; };
+		86E135F72A95631400FE8D65 /* HTTPClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPClient.swift; sourceTree = "<group>"; };
+		86E135F82A95631400FE8D65 /* RequestMethod.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestMethod.swift; sourceTree = "<group>"; };
+		86E135F92A95631400FE8D65 /* RequestError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestError.swift; sourceTree = "<group>"; };
+		86E135FA2A95631400FE8D65 /* Endpoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Endpoint.swift; sourceTree = "<group>"; };
+		86E135FC2A95631400FE8D65 /* UserService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
+		86E135FD2A95631400FE8D65 /* FilterService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterService.swift; sourceTree = "<group>"; };
+		86E135FE2A95631400FE8D65 /* IngredientService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngredientService.swift; sourceTree = "<group>"; };
+		86E135FF2A95631400FE8D65 /* JWTService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JWTService.swift; sourceTree = "<group>"; };
+		86E136002A95631400FE8D65 /* CoctailService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoctailService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +139,8 @@
 		86E135A42A9562D400FE8D65 /* Workshop23.08 */ = {
 			isa = PBXGroup;
 			children = (
+				86E135E92A95631400FE8D65 /* Services */,
+				86E135B32A95630100FE8D65 /* Models */,
 				86E135A52A9562D400FE8D65 /* Workshop23_08App.swift */,
 				86E135A72A9562D400FE8D65 /* ContentView.swift */,
 				86E135A92A9562DC00FE8D65 /* Assets.xcassets */,
@@ -65,6 +155,120 @@
 				86E135AC2A9562DC00FE8D65 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		86E135B32A95630100FE8D65 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				86E135B42A95630100FE8D65 /* StandartModels */,
+				86E135C62A95630100FE8D65 /* AggregateModels */,
+				86E135CC2A95630100FE8D65 /* CustomModels */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		86E135B42A95630100FE8D65 /* StandartModels */ = {
+			isa = PBXGroup;
+			children = (
+				86E135B52A95630100FE8D65 /* ResetPasswordModel.swift */,
+				86E135B62A95630100FE8D65 /* StepModel.swift */,
+				86E135B72A95630100FE8D65 /* InventoryModel.swift */,
+				86E135B82A95630100FE8D65 /* IngredientModel.swift */,
+				86E135B92A95630100FE8D65 /* CategoryModel.swift */,
+				86E135BA2A95630100FE8D65 /* StrengthModel.swift */,
+				86E135BB2A95630100FE8D65 /* CocktailRecommendationModel.swift */,
+				86E135BC2A95630100FE8D65 /* AuthorModel.swift */,
+				86E135BD2A95630100FE8D65 /* GlobalModel.swift */,
+				86E135BE2A95630100FE8D65 /* CocktailModel.swift */,
+				86E135BF2A95630100FE8D65 /* JWTTokenModel.swift */,
+				86E135C02A95630100FE8D65 /* ComplexityModel.swift */,
+				86E135C12A95630100FE8D65 /* UserModel.swift */,
+				86E135C22A95630100FE8D65 /* TasteModel.swift */,
+				86E135C32A95630100FE8D65 /* FormatModel.swift */,
+				86E135C42A95630100FE8D65 /* ProfilePicModel.swift */,
+				86E135C52A95630100FE8D65 /* TokenModel.swift */,
+			);
+			path = StandartModels;
+			sourceTree = "<group>";
+		};
+		86E135C62A95630100FE8D65 /* AggregateModels */ = {
+			isa = PBXGroup;
+			children = (
+				86E135C72A95630100FE8D65 /* UserAggregateModel.swift */,
+				86E135C82A95630100FE8D65 /* PasswordResetAggregateModel.swift */,
+				86E135C92A95630100FE8D65 /* FilterAggregateModel.swift */,
+				86E135CA2A95630100FE8D65 /* CocktailAggregateModel.swift */,
+				86E135CB2A95630100FE8D65 /* IngredientAggregateModel.swift */,
+			);
+			path = AggregateModels;
+			sourceTree = "<group>";
+		};
+		86E135CC2A95630100FE8D65 /* CustomModels */ = {
+			isa = PBXGroup;
+			children = (
+				86E135CD2A95630100FE8D65 /* AlertModel.swift */,
+				86E135CE2A95630100FE8D65 /* AnyAnswerModel.swift */,
+				86E135CF2A95630100FE8D65 /* UserCustom.swift */,
+			);
+			path = CustomModels;
+			sourceTree = "<group>";
+		};
+		86E135E92A95631400FE8D65 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				86E135EA2A95631400FE8D65 /* NetworkLayer */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		86E135EA2A95631400FE8D65 /* NetworkLayer */ = {
+			isa = PBXGroup;
+			children = (
+				86E135EB2A95631400FE8D65 /* Endpoints */,
+				86E135F62A95631400FE8D65 /* Base */,
+				86E135FB2A95631400FE8D65 /* Services */,
+			);
+			path = NetworkLayer;
+			sourceTree = "<group>";
+		};
+		86E135EB2A95631400FE8D65 /* Endpoints */ = {
+			isa = PBXGroup;
+			children = (
+				86E135EC2A95631400FE8D65 /* InventoryEndpoint.swift */,
+				86E135ED2A95631400FE8D65 /* StrengthEndpoint.swift */,
+				86E135EE2A95631400FE8D65 /* IngredientEndpoint.swift */,
+				86E135EF2A95631400FE8D65 /* CocktailEndpoint.swift */,
+				86E135F02A95631400FE8D65 /* BarEndpoint.swift */,
+				86E135F12A95631400FE8D65 /* FormatEndpoint.swift */,
+				86E135F22A95631400FE8D65 /* ComplexityEndpoint.swift */,
+				86E135F32A95631400FE8D65 /* JWTEndpoint.swift */,
+				86E135F42A95631400FE8D65 /* TasteEndpoint.swift */,
+				86E135F52A95631400FE8D65 /* UserEndpoint.swift */,
+			);
+			path = Endpoints;
+			sourceTree = "<group>";
+		};
+		86E135F62A95631400FE8D65 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				86E135F72A95631400FE8D65 /* HTTPClient.swift */,
+				86E135F82A95631400FE8D65 /* RequestMethod.swift */,
+				86E135F92A95631400FE8D65 /* RequestError.swift */,
+				86E135FA2A95631400FE8D65 /* Endpoint.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		86E135FB2A95631400FE8D65 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				86E135FC2A95631400FE8D65 /* UserService.swift */,
+				86E135FD2A95631400FE8D65 /* FilterService.swift */,
+				86E135FE2A95631400FE8D65 /* IngredientService.swift */,
+				86E135FF2A95631400FE8D65 /* JWTService.swift */,
+				86E136002A95631400FE8D65 /* CoctailService.swift */,
+			);
+			path = Services;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +341,52 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86E135E02A95630100FE8D65 /* TokenModel.swift in Sources */,
+				86E135D82A95630100FE8D65 /* GlobalModel.swift in Sources */,
+				86E136052A95631400FE8D65 /* BarEndpoint.swift in Sources */,
+				86E135D92A95630100FE8D65 /* CocktailModel.swift in Sources */,
+				86E135D62A95630100FE8D65 /* CocktailRecommendationModel.swift in Sources */,
+				86E136042A95631400FE8D65 /* CocktailEndpoint.swift in Sources */,
 				86E135A82A9562D400FE8D65 /* ContentView.swift in Sources */,
+				86E136132A95631400FE8D65 /* CoctailService.swift in Sources */,
+				86E135D02A95630100FE8D65 /* ResetPasswordModel.swift in Sources */,
+				86E135DE2A95630100FE8D65 /* FormatModel.swift in Sources */,
+				86E135E42A95630100FE8D65 /* CocktailAggregateModel.swift in Sources */,
+				86E135E62A95630100FE8D65 /* AlertModel.swift in Sources */,
+				86E135E32A95630100FE8D65 /* FilterAggregateModel.swift in Sources */,
+				86E136122A95631400FE8D65 /* JWTService.swift in Sources */,
+				86E135D32A95630100FE8D65 /* IngredientModel.swift in Sources */,
+				86E1360C2A95631400FE8D65 /* RequestMethod.swift in Sources */,
+				86E1360F2A95631400FE8D65 /* UserService.swift in Sources */,
+				86E135DA2A95630100FE8D65 /* JWTTokenModel.swift in Sources */,
+				86E136102A95631400FE8D65 /* FilterService.swift in Sources */,
 				86E135A62A9562D400FE8D65 /* Workshop23_08App.swift in Sources */,
+				86E1360D2A95631400FE8D65 /* RequestError.swift in Sources */,
+				86E135D42A95630100FE8D65 /* CategoryModel.swift in Sources */,
+				86E136112A95631400FE8D65 /* IngredientService.swift in Sources */,
+				86E136062A95631400FE8D65 /* FormatEndpoint.swift in Sources */,
+				86E135E72A95630100FE8D65 /* AnyAnswerModel.swift in Sources */,
+				86E135DF2A95630100FE8D65 /* ProfilePicModel.swift in Sources */,
+				86E136022A95631400FE8D65 /* StrengthEndpoint.swift in Sources */,
+				86E135D72A95630100FE8D65 /* AuthorModel.swift in Sources */,
+				86E135E82A95630100FE8D65 /* UserCustom.swift in Sources */,
+				86E135D22A95630100FE8D65 /* InventoryModel.swift in Sources */,
+				86E135E12A95630100FE8D65 /* UserAggregateModel.swift in Sources */,
+				86E1360E2A95631400FE8D65 /* Endpoint.swift in Sources */,
+				86E135DB2A95630100FE8D65 /* ComplexityModel.swift in Sources */,
+				86E135E52A95630100FE8D65 /* IngredientAggregateModel.swift in Sources */,
+				86E136082A95631400FE8D65 /* JWTEndpoint.swift in Sources */,
+				86E136072A95631400FE8D65 /* ComplexityEndpoint.swift in Sources */,
+				86E136092A95631400FE8D65 /* TasteEndpoint.swift in Sources */,
+				86E135D52A95630100FE8D65 /* StrengthModel.swift in Sources */,
+				86E1360A2A95631400FE8D65 /* UserEndpoint.swift in Sources */,
+				86E135DD2A95630100FE8D65 /* TasteModel.swift in Sources */,
+				86E136032A95631400FE8D65 /* IngredientEndpoint.swift in Sources */,
+				86E135DC2A95630100FE8D65 /* UserModel.swift in Sources */,
+				86E136012A95631400FE8D65 /* InventoryEndpoint.swift in Sources */,
+				86E135E22A95630100FE8D65 /* PasswordResetAggregateModel.swift in Sources */,
+				86E1360B2A95631400FE8D65 /* HTTPClient.swift in Sources */,
+				86E135D12A95630100FE8D65 /* StepModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
